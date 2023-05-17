@@ -29,7 +29,7 @@ input:not([type="radio"]):not([type="checkbox"]), button {
 	background: none;
 	cursor: initial;
 }
-/* End of Resets */
+/*End of Resets*/
 
 body {
 	background: var(--light);
