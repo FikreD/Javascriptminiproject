@@ -16,10 +16,11 @@ let questions = [
     question: "What does CSS stand for?",
     answer: "Cascading Style Sheet",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "A.Common Style Sheet",
+      "B.Colorful Style Sheet",
+      "C.Computer Style Sheet",
+      "D.Cascading Style Sheet"
+    
     ]
   },
     {
@@ -27,10 +28,10 @@ let questions = [
     question: "What does PHP stand for?",
     answer: "Hypertext Preprocessor",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "A.Hypertext Preprocessor",
+      "B.Hypertext Programming",
+      "C.Hypertext Preprogramming",
+      "D.Hometext Preprocessor"
     ]
   },
     {
@@ -38,10 +39,10 @@ let questions = [
     question: "What does SQL stand for?",
     answer: "Structured Query Language",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "A.Stylish Question Language",
+      "B.Stylesheet Query Language",
+      "C.Statement Question Language",
+      "D.Structured Query Language"
     ]
   },
     {
@@ -49,10 +50,11 @@ let questions = [
     question: "What does XML stand for?",
     answer: "eXtensible Markup Language",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "A.eXtensible Markup Language",
+      "B.eXecutable Multiple Language",
+      "C.eXTra Multi-Program Language",
+      
+      "D.eXamine Multiple Language"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
