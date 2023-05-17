@@ -1,0 +1,113 @@
+body{
+    padding:0;
+    margin:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(5, 5, 5);
+}
+.container{
+    width: 45%;
+    height: 45vh;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 12px 12px 20px #5a5b5c,
+                -12px -12px 20px #4c4c4d ;
+}
+.display #screen{
+    width:97%;
+    height: 60px;
+    font-size: 35px;
+    outline: none;
+    border: none;
+    text-align: right;
+    padding-right: .5em;
+    background: #edf1f3;
+    border-radius: 6px;
+    box-shadow: inset 8px 8px 8px rgb(190, 189, 189),
+                inset -8px -8px 8px white;
+}
+.btns{
+    width: 100%;
+    margin-top: .9em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btns .row button{
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    margin: 5px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 8px #2b2a2a42,
+                -5px -5px 8px #313131;
+                transition:.1s
+}
+.btns .row button:hover
+{
+    box-shadow: inset 5px 5px 8px rgba(202, 195, 195, 0.1),
+                inset -5px -5px 8px rgb(233, 226, 226);
+                background: rgb(223, 211, 211);
+    
+}
+#eval{
+    background-color: rgb(53, 187, 240);
+    color: white;
+    box-shadow: inset 5px 5px 8px #66d9ff,
+                inset -5px -5px 8px #00ace6;
+}
+#eval:hover{
+    box-shadow: inset 5px 5px 8px #00ace6,
+                inset -5px -5px 8px #00ace6;
+}
+#ac{
+    background-color: limegreen;
+    color: rgb(228, 240, 228);
+    
+}
+#ac :hover{
+    box-shadow: inset 5px 5px 8px #38f347,
+    inset -5px -5px 8px #37ee46;
+
+}
+#ce{
+    background-color: #fc569b;
+    color: #faf8f9;
+    box-shadow: inset 5px 5px 8px #f052ae,
+    inset -5px -5px 8px #f72fa3;
+
+}
+#ce:hover{
+    box-shadow: inset 5px 5px 8px #fd6fc2,
+    inset -5px -5px 8px #fd6fc2;
+
+}
+#co{
+    background-color: #070707;
+    color: #eed024;
+    box-shadow: inset 5px 5px 8px #161616,
+    inset -5px -5px 8px rgb(24, 23, 23);
+
+}
+#co:hover{
+    box-shadow: inset 5px 5px 8px #242323,
+    inset -5px -5px 8px #2b2a2a;
+
+}
+#si{
+    background-color: #f79605;
+    color: #000000;
+    box-shadow: inset 5px 5px 8px #c27108,
+                inset -5px -5px 8px #b86d0b;
+
+}
+#si:hover{
+    box-shadow: inset 5px 5px 8px #f8b85d,
+    inset -5px -5px 8px #bd8d4f;
+
+}
