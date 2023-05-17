@@ -171,12 +171,12 @@ input:checked ~ .bubble::after {
 }
 
 .todo-list .list {
-	margin: 1rem 0;
+	margin:1rem 0;
 }
 
 .todo-list .todo-item {
-	display: flex;
-	align-items: center;
+	display:flex;
+	align-items:center;
 	background-color: #FFF;
 	padding: 1rem;
 	border-radius: 0.5rem;
