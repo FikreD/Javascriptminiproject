@@ -5,10 +5,10 @@ let questions = [
     question: "What does HTML stand for?",
     answer: "Hyper Text Markup Language",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "A.Hyper Text Preprocessor",
+      "B.Hyper Text Markup Language",
+      "C.Hyper Text Multiple Language",
+      "D.Hyper Tool Multi Language"
     ]
   },
     {
