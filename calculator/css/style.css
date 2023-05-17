@@ -76,15 +76,13 @@ body{
 
 }
 #ce{
-    background-color: #fc569b;
-    color: #faf8f9;
-    box-shadow: inset 5px 5px 8px #f052ae,
-    inset -5px -5px 8px #f72fa3;
-
+    background-color: limegreen;
+    color: rgb(228, 240, 228);
+    
 }
 #ce:hover{
-    box-shadow: inset 5px 5px 8px #fd6fc2,
-    inset -5px -5px 8px #fd6fc2;
+    box-shadow: inset 5px 5px 8px #38f347,
+    inset -5px -5px 8px #37ee46;
 
 }
 #co{
@@ -100,14 +98,14 @@ body{
 
 }
 #si{
-    background-color: #f79605;
+    background-color: #03719c;
     color: #000000;
-    box-shadow: inset 5px 5px 8px #c27108,
-                inset -5px -5px 8px #b86d0b;
+    box-shadow: inset 5px 5px 8px #03719c,
+                inset -5px -5px 8px #03719c;
 
 }
 #si:hover{
-    box-shadow: inset 5px 5px 8px #f8b85d,
-    inset -5px -5px 8px #bd8d4f;
+    box-shadow: inset 5px 5px 8px #51b1d6,
+    inset -5px -5px 8px #7bd2f5;
 
 }
