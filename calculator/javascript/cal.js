@@ -6,6 +6,8 @@ var screen=document.querySelector('#screen');
             if(btntext=='x'){
                 btntext='*';
             }
+            
+            
             if(btntext=='/'){
                 btntext='/';
             }
