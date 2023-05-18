@@ -33,16 +33,16 @@ button {
 }
 
 #startBtn {
-    background-color: #00ff00;
-    color: white;
+    background-red: #00ff00;
+    color: red;
 }
 
 #stopBtn {
-    background-color: #ff0000;
-    color: white;
+    background-red: #ff0000;
+    color: red;
 }
 
 #resetBtn {
     background-color: #0000ff;
-    color: white;
+    color: red;
 }

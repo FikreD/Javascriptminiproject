@@ -39,7 +39,7 @@ var screen=document.querySelector('#screen');
         screen.value=Math.log(screen.value);
     }
     function pi(){
-        screen.value=3.14159265359;
+        screen.value=3.141593459;
     }
     function e(){
         screen.value=2.71828182846
