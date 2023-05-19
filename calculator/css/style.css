@@ -7,7 +7,7 @@ body{
     min-height: 100vh;
     background: rgb(5, 5, 5);
 }
-container{
+.container{
     width: 45%;
     height: 45vh;
     padding: 10px;
