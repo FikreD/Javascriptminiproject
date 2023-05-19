@@ -105,7 +105,6 @@ function showQuetions(index){
 }
 let tickIconTag = '<div class="icon tick"><i class="fas fa-check"></i></div>';
 let crossIconTag = '<div class="icon cross"><i class="fas fa-times"></i></div>';
-
 //if user clicked on option
 function optionSelected(answer){
     clearInterval(counter); //clear counter
@@ -138,7 +137,6 @@ function optionSelected(answer){
     }
     next_btn.classList.add("show"); //show the next button if user selected any option
 }
-
 function showResult(){
     info_box.classList.remove("activeInfo"); //hide info box
     quiz_box.classList.remove("activeQuiz"); //hide quiz box
@@ -158,7 +156,6 @@ function showResult(){
         scoreText.innerHTML = scoreTag;
     }
 }
-
 function startTimer(time){
     counter = setInterval(timer, 1000);
     function timer(){
