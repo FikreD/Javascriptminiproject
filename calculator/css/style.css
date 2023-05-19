@@ -26,7 +26,7 @@ body{
     background: #edf1f3;
     border-radius: 6px;
     box-shadow: inset 8px 8px 8px rgb(190, 189, 189),
-                inset -8px -8px 8px white;
+                inset -8px -8px 7px white;
 }
 .btns{
     width: 100%;
