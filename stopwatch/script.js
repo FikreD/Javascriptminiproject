@@ -1,3 +1,7 @@
+let timer = document.getElementById("timer");
+let startBtn = document.getElementById("startBtn");
+let stopBtn = document.getElementById("stopBtn");
+let resetBtn = document.getElementById("resetBtn");
 
 
 let hour = 0;
