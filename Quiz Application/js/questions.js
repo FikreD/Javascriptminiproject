@@ -53,8 +53,7 @@ let questions = [
       "A.eXtensible Markup Language",
       "B.eXecutable Multiple Language",
       "C.eXTra Multi-Program Language",
-      
-      "D.eXamine Multiple Language"
+       "D.eXamine Multiple Language"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
